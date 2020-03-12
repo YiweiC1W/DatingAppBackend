@@ -1,0 +1,17 @@
+/Users/yiweichen/Desktop/datingApp/Dating.API/Dating.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/yiweichen/Desktop/datingApp/Dating.API/Dating.API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/yiweichen/Desktop/datingApp/Dating.API/Dating.API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/yiweichen/Desktop/datingApp/Dating.API/Dating.API/bin/Debug/netcoreapp3.1/Dating.API.deps.json
+/Users/yiweichen/Desktop/datingApp/Dating.API/Dating.API/bin/Debug/netcoreapp3.1/Dating.API.runtimeconfig.json
+/Users/yiweichen/Desktop/datingApp/Dating.API/Dating.API/bin/Debug/netcoreapp3.1/Dating.API.runtimeconfig.dev.json
+/Users/yiweichen/Desktop/datingApp/Dating.API/Dating.API/bin/Debug/netcoreapp3.1/Dating.API.dll
+/Users/yiweichen/Desktop/datingApp/Dating.API/Dating.API/bin/Debug/netcoreapp3.1/Dating.API.pdb
+/Users/yiweichen/Desktop/datingApp/Dating.API/Dating.API/obj/Debug/netcoreapp3.1/Dating.API.csprojAssemblyReference.cache
+/Users/yiweichen/Desktop/datingApp/Dating.API/Dating.API/obj/Debug/netcoreapp3.1/Dating.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/yiweichen/Desktop/datingApp/Dating.API/Dating.API/obj/Debug/netcoreapp3.1/Dating.API.AssemblyInfoInputs.cache
+/Users/yiweichen/Desktop/datingApp/Dating.API/Dating.API/obj/Debug/netcoreapp3.1/Dating.API.AssemblyInfo.cs
+/Users/yiweichen/Desktop/datingApp/Dating.API/Dating.API/obj/Debug/netcoreapp3.1/Dating.API.RazorTargetAssemblyInfo.cache
+/Users/yiweichen/Desktop/datingApp/Dating.API/Dating.API/obj/Debug/netcoreapp3.1/staticwebassets/Dating.API.StaticWebAssets.Manifest.cache
+/Users/yiweichen/Desktop/datingApp/Dating.API/Dating.API/obj/Debug/netcoreapp3.1/staticwebassets/Dating.API.StaticWebAssets.xml
+/Users/yiweichen/Desktop/datingApp/Dating.API/Dating.API/obj/Debug/netcoreapp3.1/Dating.API.dll
+/Users/yiweichen/Desktop/datingApp/Dating.API/Dating.API/obj/Debug/netcoreapp3.1/Dating.API.pdb
